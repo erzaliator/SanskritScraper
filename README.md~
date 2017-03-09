@@ -9,3 +9,5 @@ Scrape online for Sanskrit Corpus
 $ bash make.py
 ```
 
+* Output is in the form of a list of DMs.
+
